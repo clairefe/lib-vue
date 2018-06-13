@@ -1,0 +1,7 @@
+export const GET_USER = 'GET_USER'
+export const GET_NUSER = 'GET_NUSER'
+export const SELECT_CITY = 'SELECT_CITY'
+export const HISTORY_CITY = 'HISTORY_CITY'
+export const SELECT_ADDR = 'SELECT_ADDR'
+export const HISTORY_ADDR = 'HISTORY_ADDR'
+export const REMOVE_HISTORY_ADDR = 'REMOVE_HISTORY_ADDR'

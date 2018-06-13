@@ -1,0 +1,116 @@
+/*联系人插件*/
+.dcs-contactadd__content .mint-cell-title{
+  width: 5.67rem !important;
+  text-align: left !important;
+
+}
+.dcs-contactadd__content .mint-cell-text{
+  font-size: 1.07rem !important;
+  color: #999 !important;
+}
+.dcs-contactadd__content .mint-cell-value{
+  font-size: .87rem !important;
+  color: #333;
+}
+/*城市插件*/
+.dcs-city__wrap .mint-search{
+  height: auto !important;
+}
+.dcs-city__wrap .mint-searchbar{
+  position: static !important;
+  height: 3.2rem !important;
+  background-color: #f7f7f7 !important;
+}
+.dcs-city__wrap .mint-searchbar-inner{
+  height: 1.6rem !important;
+}
+/*indexlist*/
+.dcs-city__wrap .mint-indexlist{
+  position: static !important;
+  overflow: auto !important;
+}
+.dcs-city__wrap .mint-indexlist-nav{
+  position: fixed !important;
+  top: 0 !important;
+  margin: 0 !important;
+  color: #0899e2!important;
+  background-color: transparent !important;
+  border-left: none !important;
+}
+.dcs-city__wrap .mint-indexlist-content{
+  height: auto !important;
+  margin-right: 0 !important;
+}
+.dcs-city__wrap .mint-indexsection-index{
+  padding: .35rem 1rem !important;
+  background-color: #f7f7f7 !important;
+}
+.dcs-city__wrap .mint-cell-wrapper{
+  padding: 0 1rem !important;
+  font-size:1.07rem !important;
+}
+.dcs-city__wrap .mint-search-list{
+  position: static !important;
+  padding-top: 0 !important;
+}
+
+/*address插件*/
+.dcs-address__wrap .mint-searchbar{
+  padding: 0;
+  background: #fff;
+  left: 135px;
+  width: calc(100% - 145px);
+}
+.dcs-address__wrap .mint-searchbar-inner{
+  padding: 2px 6px;
+}
+.dcs-address__wrap .mint-search-list{
+  position: static;
+  margin-top: 6px;
+  padding-top: 0;
+}
+.dcs-address__wrap .mint-search-list-warp{
+  text-align: left;
+  margin-bottom: 60px;
+}
+.dcs-address__wrap .mint-cell-wrapper{
+}
+.dcs-address__wrap .mint-cell-text{
+  color: #333;
+  font-size: 1.07rem;
+}
+.dcs-address__wrap .mint-cell-label{
+  color: #999;
+  font-size: .8rem;
+}
+
+/* 日历*/
+.dcs-datetime-picker  .picker-toolbar {
+  border-bottom: solid 1px #c8c8c8;
+  height: 48px;
+  line-height: 48px;
+  font-weight: normal;
+}
+.dcs-datetime .picker-item {
+  color: #000;
+  font-weight: normal;
+  font-size: 1rem;
+
+}
+.dcs-datetime .picker-item.picker-selected {
+  font-size: 1.325rem;
+}
+.dcs-datetime .picker-slot-wrapper, .dcs-datetime .picker-item {
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  width: 100%;
+}
+.dcs-datetime .picker-items{
+  background: -webkit-linear-gradient(#fff 0, rgba(245, 245, 245, 0) 52%, rgba(245, 245, 245, 0) 48%, #fff 100%);
+}
+/*pop up*/
+.v-modal {
+  opacity: 0.7 !important;
+  background: #fff !important;
+}
+
